@@ -13,8 +13,8 @@ Measuring the accuracy and computational cost of a quantized pre-trained model w
 - int8
 
 ## Prerequisites
-Model (suggested) - https://tfhub.dev/tensorflow/ssd_mobilenet_v2/2
-Model2 (idk) https://github.com/facebookresearch/detectron
-Model3 (Matlab) https://www.mathworks.com/help/vision/ref/yolov3objectdetector.html
-Data set - https://cocodataset.org/#download
+### Model (suggested) - https://tfhub.dev/tensorflow/ssd_mobilenet_v2/2
+### Model2 (idk) https://github.com/facebookresearch/detectron
+### Model3 (Matlab) https://www.mathworks.com/help/vision/ref/yolov3objectdetector.html
+### Data set - https://cocodataset.org/#download
 
