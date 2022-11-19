@@ -3,7 +3,9 @@
 ## GROUP 6
 ### Medak, Nichitov
 
-##Colab Project Link
+#Colab Project Link
+
+#Resource Link https://www.tensorflow.org/lite/performance/post_training_quantization
 
 
 ## Overview
