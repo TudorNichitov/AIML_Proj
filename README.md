@@ -1,7 +1,7 @@
 
 # AIML Project - Energy Efficiency in AI- Quantization of ML models
 ## GROUP 6
-### Medak, Nichitov
+### Nichitov
 
 #Colab Project Link
 
