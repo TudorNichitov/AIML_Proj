@@ -1,7 +1,6 @@
 
 # AIML Project - Energy Efficiency in AI- Quantization of ML models
-## GROUP 6
-### Nichitov
+## GROUP 6 - Nichitov
 
 
 ## Overview
