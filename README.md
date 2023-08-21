@@ -10,13 +10,13 @@ detection model and to test the validity and tradeoffs of quantization, specific
 This Jupyter notebook provides a walk-through for quantizing an AI model and testing its performance using the TensorFlow framework. 
 
 ## Features:
-### 1.Load an image into a numpy array.
-### 2.Load COCO dataset label map.
-### 3.Run inference on a sample image.
-### 4.Set up interpreters for quantized models.
-### 5.Convert a model to TensorFlow Lite format.
-### 6.Quantize the TensorFlow Lite model to 8-bit and 16 bit precision.
-### 7.Analyze the results -sizes and inference timesof the quantized models by running inference on multiple images using the quantized model
+#### 1.Load an image into a numpy array.
+#### 2.Load COCO dataset label map.
+#### 3.Run inference on a sample image.
+#### 4.Set up interpreters for quantized models.
+#### 5.Convert a model to TensorFlow Lite format.
+#### 6.Quantize the TensorFlow Lite model to 8-bit and 16 bit precision.
+#### 7.Analyze the results -sizes and inference timesof the quantized models by running inference on multiple images using the quantized model
 
 ## Dependencies:
 
