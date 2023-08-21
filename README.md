@@ -9,7 +9,7 @@ The scope of this exercise to gain a better understanding of Quantization In AI 
 detection model and to test the validity and tradeoffs of quantization, specifically considering our current situation with the energy market and need for energy efficiency. 
 This Jupyter notebook provides a walk-through for quantizing an AI model and testing its performance using the TensorFlow framework. 
 
-##Features:
+## Features:
 1.Load an image into a numpy array.
 2.Load COCO dataset label map.
 3.Run inference on a sample image.
@@ -18,7 +18,7 @@ This Jupyter notebook provides a walk-through for quantizing an AI model and tes
 6.Quantize the TensorFlow Lite model to 8-bit and 16 bit precision.
 7.Analyze the results -sizes and inference timesof the quantized models by running inference on multiple images using the quantized model
 
-##Dependencies:
+## Dependencies:
 
 1.TensorFlow: Deep learning framework.
 2.NumPy: To handle numerical operations.
