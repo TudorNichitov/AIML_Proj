@@ -20,13 +20,13 @@ This Jupyter notebook provides a walk-through for quantizing an AI model and tes
 
 ## Dependencies:
 
-### 1.TensorFlow: Deep learning framework.
-### 2.NumPy: To handle numerical operations.
-### 3.PIL (Python Imaging Library): To load and manipulate images.
-### 4.Matplotlib: For visualizing image outputs.
-### 5.TFLite: TensorFlow Lite for mobile and embedded devices.
-### 6.pycocotools: For COCO dataset related utilities.
-### 7.glob and os: For file-related operations.  
+#### 1.TensorFlow: Deep learning framework.
+#### 2.NumPy: To handle numerical operations.
+#### 3.PIL (Python Imaging Library): To load and manipulate images.
+#### 4.Matplotlib: For visualizing image outputs.
+#### 5.TFLite: TensorFlow Lite for mobile and embedded devices.
+#### 6.pycocotools: For COCO dataset related utilities.
+#### 7.glob and os: For file-related operations.  
 
 ## Prerequisites
 ### Model (suggested) - https://tfhub.dev/tensorflow/ssd_mobilenet_v2/2 (TFLITE)
