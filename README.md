@@ -10,23 +10,23 @@ detection model and to test the validity and tradeoffs of quantization, specific
 This Jupyter notebook provides a walk-through for quantizing an AI model and testing its performance using the TensorFlow framework. 
 
 ## Features:
-1.Load an image into a numpy array.
-2.Load COCO dataset label map.
-3.Run inference on a sample image.
-4.Set up interpreters for quantized models.
-5.Convert a model to TensorFlow Lite format.
-6.Quantize the TensorFlow Lite model to 8-bit and 16 bit precision.
-7.Analyze the results -sizes and inference timesof the quantized models by running inference on multiple images using the quantized model
+### 1.Load an image into a numpy array.
+### 2.Load COCO dataset label map.
+### 3.Run inference on a sample image.
+### 4.Set up interpreters for quantized models.
+### 5.Convert a model to TensorFlow Lite format.
+### 6.Quantize the TensorFlow Lite model to 8-bit and 16 bit precision.
+### 7.Analyze the results -sizes and inference timesof the quantized models by running inference on multiple images using the quantized model
 
 ## Dependencies:
 
-1.TensorFlow: Deep learning framework.
-2.NumPy: To handle numerical operations.
-3.PIL (Python Imaging Library): To load and manipulate images.
-4.Matplotlib: For visualizing image outputs.
-5.TFLite: TensorFlow Lite for mobile and embedded devices.
-6.pycocotools: For COCO dataset related utilities.
-7.glob and os: For file-related operations.  
+### 1.TensorFlow: Deep learning framework.
+### 2.NumPy: To handle numerical operations.
+### 3.PIL (Python Imaging Library): To load and manipulate images.
+### 4.Matplotlib: For visualizing image outputs.
+### 5.TFLite: TensorFlow Lite for mobile and embedded devices.
+### 6.pycocotools: For COCO dataset related utilities.
+### 7.glob and os: For file-related operations.  
 
 ## Prerequisites
 ### Model (suggested) - https://tfhub.dev/tensorflow/ssd_mobilenet_v2/2 (TFLITE)
